@@ -1,0 +1,7 @@
+{
+  "code": [
+    "./code/app-homework/src/main/java/de/ait/Main.java",
+    "./code/app-homework/src/main/java/de/ait/StringTools.java",
+    "./code/app-homework/src/test/java/de/ait/StringToolsTest.java"
+      ]
+}
