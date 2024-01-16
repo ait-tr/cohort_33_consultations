@@ -1,4 +1,13 @@
 {
   "code": [
+    "./code/index.html",
+    "./code/css/main.css",
+    "./code/css/template.css",
+    "./code/pages/css/pages.css",
+    "./code/pages/items/css/item.css",
+    "./code/pages/items/mulan.html",
+    "./code/pages/actions.html",
+    "./code/pages/comedy.html",
+    "./code/pages/trillers.html"
       ]
 }
