@@ -1,0 +1,41 @@
+.content_conteiner{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+    width: 250px;
+}
+
+img{
+    width: 200px;
+    transition: transform 0.3s ease;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.content_rate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 30px;
+    background-color: green;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    z-index: 2;
+}
+
+.content_rate_text{
+    color: white;
+    font-weight: bold;
+}
