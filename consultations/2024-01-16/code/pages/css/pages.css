@@ -1,4 +1,4 @@
-.content_conteiner{
+.content_conteiner {
     display: flex;
     position: relative;
     flex-direction: column;
@@ -7,22 +7,22 @@
     width: 250px;
 }
 
-img{
+img {
     width: 200px;
     transition: transform 0.3s ease;
 }
 
-img:hover{
+img:hover {
     transform: scale(1.2);
 }
 
-main{
+main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
-.content_rate{
+.content_rate {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,7 +35,7 @@ main{
     z-index: 2;
 }
 
-.content_rate_text{
+.content_rate_text {
     color: white;
     font-weight: bold;
 }
