@@ -1,6 +1,6 @@
 {
   "code": [
-    "./code/index.html"
-
+    "./code/index.html",
+    "./code/css/style.css"
       ]
 }
