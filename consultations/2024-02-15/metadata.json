@@ -1,0 +1,8 @@
+{
+  "code": [
+    "./code/App.jsx",
+    "./code/App.css",
+    "./code/components/profileCard.css",
+    "./code/components/ProfileCard.jsx"
+  ]
+}
