@@ -1,0 +1,12 @@
+{
+  "code": [
+    "./code/App.css",
+    "./code/App.tsx",
+    "./code/index.css",
+    "./code/components/Button.tsx",
+    "./code/components/Input.tsx",
+    "./code/components/styles.css",
+    "./code/components/styles.ts",
+    "./code/components/types.ts"
+  ]
+}
