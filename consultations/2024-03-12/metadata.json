@@ -1,0 +1,10 @@
+{
+  "code": [
+    "./code/Homework27.tsx",
+    "./code/components/BlogManagement/BlogManagement.tsx",
+    "./code/components/BlogManagement/style.ts",
+    "./code/components/Card/Card.tsx",
+    "./code/components/Card/style.ts",
+    "./code/components/Message/Message.tsx"
+  ]
+}
