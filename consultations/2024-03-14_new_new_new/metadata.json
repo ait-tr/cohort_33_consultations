@@ -1,0 +1,9 @@
+{
+  "code": [
+ 
+    "./code/Weather/Weather.tsx",
+    "./code/Weather/styles.ts",
+    "./code/Weather/components/WeatherError/WeaherError.tsx",
+    "./code/Weather/components/WeatherInfo/WeatherInfo.tsx"
+  ]
+}
