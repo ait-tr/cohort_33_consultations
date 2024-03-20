@@ -3,6 +3,6 @@
     "./code/components/Card.tsx",
     "./code/components/Counter.tsx",
     "./code/components/Form.tsx",
-    ".code/components/styles.css"
+    "./code/components/styles.css"
   ]
 }
