@@ -1,0 +1,10 @@
+{
+  "code": [
+    "./code/pages/todo/styles.css",
+    "./code/pages/todo/Todo.tsx",
+    "./code/pages/todo/Todoes.tsx",
+    "./code/pages/todo/types.ts",
+    "./code/store/redux/todo/todoSlice.ts",
+    "./code/store/redux/todo/types.ts"
+  ]
+}
